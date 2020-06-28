@@ -17,4 +17,4 @@ Nothing yet!
 get into a googling-tangent spiral, trying to understand how to do
 things the right way (or at least, not the complete wrong way).
 
-**Link(s) to work:** timmybytes.com (SSL pending via GitHub).
+**Link(s) to work:** [timmybytes.com](timmybytes.com) (SSL pending via GitHub).
