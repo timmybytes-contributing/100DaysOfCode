@@ -27,3 +27,12 @@ things the right way (or at least, not the complete wrong way).
 **Thoughts:** Getting elements to stay where you want them, especially in relation to responsive design, is a bigger pain than I thought.
 
 **Link(s) to work:** No new commits today; WIP.
+
+
+### Day 3: Monday June 29th, 2020 
+
+**Today's Progress:** More Codecademy practice, discovered [Jen Simmons'](https://labs.jensimmons.com/) hugely inspirational design work and explanations on css grid.
+
+**Thoughts:** Getting a better understanding on how elements can be manipulated to work within an overall design scheme.
+
+**Link(s) to work:** No new commits today; WIP.
