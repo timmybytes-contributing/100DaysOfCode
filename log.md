@@ -36,3 +36,12 @@ things the right way (or at least, not the complete wrong way).
 **Thoughts:** Getting a better understanding on how elements can be manipulated to work within an overall design scheme.
 
 **Link(s) to work:** No new commits today; WIP.
+
+
+### Day 4: Monday June 29th, 2020 
+
+**Today's Progress:** Completed (most) of a recreation of Google.com from pure HTML/CSS with working search redirection.
+
+**Thoughts:** Trying to juggle flexbox and style parameters requires more systematic selectors on my part, as the code is a bit of a mess.
+
+**Link(s) to work:** [Google Homepage Copy](https://github.com/timmybytes/WebDevPractice/tree/master/Google_Homepage_Copy)
