@@ -38,10 +38,19 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** No new commits today; WIP.
 
 
-### Day 4: Monday June 29th, 2020 
+### Day 4: Tuesday June 30th, 2020 
 
 **Today's Progress:** Completed (most) of a recreation of Google.com from pure HTML/CSS with working search redirection.
 
 **Thoughts:** Trying to juggle flexbox and style parameters requires more systematic selectors on my part, as the code is a bit of a mess.
 
 **Link(s) to work:** [Google Homepage Copy](https://github.com/timmybytes/WebDevPractice/tree/master/Google_Homepage_Copy)
+
+
+### Day 5: Wednesday July 1st, 2020 
+
+**Today's Progress:** Learned the basics of SASS and how it can be used to both streamline and add greater complexity to web design.
+
+**Thoughts:** SASS seems to add more functional-type programming to the typically more 'static' side of HTML/CSS. I'm looking forward to using it.
+
+**Link(s) to work:** No projects today.
