@@ -54,3 +54,12 @@ things the right way (or at least, not the complete wrong way).
 **Thoughts:** SASS seems to add more functional-type programming to the typically more 'static' side of HTML/CSS. I'm looking forward to using it.
 
 **Link(s) to work:** No projects today.
+
+
+### Day 6: Thursday July 2st, 2020 
+
+**Today's Progress:** Less time to code today. Spent some time experimenting with SASS and creating mixins and variables to better separate my code without repeating. Played with Figma to try out styling/layout options.
+
+**Thoughts:** I am tired, that's my only thought.
+
+**Link(s) to work:** No projects today.
