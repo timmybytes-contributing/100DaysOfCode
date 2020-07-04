@@ -56,10 +56,19 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** No projects today.
 
 
-### Day 6: Thursday July 2st, 2020 
+### Day 6: Thursday July 2nd, 2020 
 
 **Today's Progress:** Less time to code today. Spent some time experimenting with SASS and creating mixins and variables to better separate my code without repeating. Played with Figma to try out styling/layout options.
 
 **Thoughts:** I am tired, that's my only thought.
+
+**Link(s) to work:** No projects today.
+
+
+### Day 7: Friday July 3rd, 2020 
+
+**Today's Progress:** Exercises on Codecademy, lots of reading and compiling of a roadmap doc to help guide my learning. About to spend some time hacking at my site before I turn in.
+
+**Thoughts:** There are so many things to learn for WebDev, but I can see a linear pathway through how to get there.
 
 **Link(s) to work:** No projects today.
