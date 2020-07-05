@@ -72,3 +72,12 @@ things the right way (or at least, not the complete wrong way).
 **Thoughts:** There are so many things to learn for WebDev, but I can see a linear pathway through how to get there.
 
 **Link(s) to work:** No projects today.
+
+
+### Day 8: Saturday July 4th, 2020 
+
+**Today's Progress:** Ill today, not much work done. Studied up on color-blind-friendly palettes and type scale ratios. Got my nav bar working for a site not done yet!
+
+**Thoughts:** Accessibility is an easily overlooked aspect in design, but should always be a part of *how* you design.
+
+**Link(s) to work:** No projects today.
