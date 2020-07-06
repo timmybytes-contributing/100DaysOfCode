@@ -81,3 +81,12 @@ things the right way (or at least, not the complete wrong way).
 **Thoughts:** Accessibility is an easily overlooked aspect in design, but should always be a part of *how* you design.
 
 **Link(s) to work:** No projects today.
+
+
+### Day 9: Sunday July 5th, 2020 
+
+**Today's Progress:** Built a new basic site with flexbox to get a better handle on how it interact with layout elements. Finding a decent design balance. Read up on contributing to open source projects, but still a bit overwhelmed on what to look for and how to help.
+
+**Thoughts:** The layers of the code onion are damn near endless.
+
+**Link(s) to work:** [Not yet live, but code is here](https://github.com/timmybytes/WebDevPractice/tree/master/flexbox_test)
