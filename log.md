@@ -90,3 +90,12 @@ things the right way (or at least, not the complete wrong way).
 **Thoughts:** The layers of the code onion are damn near endless.
 
 **Link(s) to work:** [Not yet live, but code is here](https://github.com/timmybytes/WebDevPractice/tree/master/flexbox_test)
+
+
+### Day 10: Monday July 6th, 2020 
+
+**Today's Progress:** Worked more on flex-based site, toying with SASS and responsiveness now... lost in the cascade. Found some great new sites and podcasts to check out. CSSInRealLife and A Question of Code
+
+**Thoughts:** I think I'm kind of over the "thoughts" portion of the log? These will just be mixed in with the day's progress from now on.
+
+**Link(s) to work:** [Not yet live, but code is here](https://github.com/timmybytes/WebDevPractice/tree/master/flexbox_test)
