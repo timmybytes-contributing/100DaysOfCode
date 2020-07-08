@@ -99,3 +99,10 @@ things the right way (or at least, not the complete wrong way).
 **Thoughts:** I think I'm kind of over the "thoughts" portion of the log? These will just be mixed in with the day's progress from now on.
 
 **Link(s) to work:** [Not yet live, but code is here](https://github.com/timmybytes/WebDevPractice/tree/master/flexbox_test)
+
+
+### Day 11: Tuesday July 7th, 2020
+
+**Today's Progress:** Finished most of the layout for the site and it's now live. Still have some tweaking to do, and then all of the non-coding editing to do to get content ready for publishing.
+
+**Link(s) to work:** https://timmybytes.com
