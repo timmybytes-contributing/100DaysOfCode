@@ -106,3 +106,10 @@ things the right way (or at least, not the complete wrong way).
 **Today's Progress:** Finished most of the layout for the site and it's now live. Still have some tweaking to do, and then all of the non-coding editing to do to get content ready for publishing.
 
 **Link(s) to work:** https://timmybytes.com
+
+
+### Day 12: Wednesday July 8th, 2020
+
+**Today's Progress:** Little time to work today. Mostly tweaked a few settings to simplify/tone-down some of the design of the site. I need to start working on other projects too or I'm going to get totally consumed with this thing.
+
+**Link(s) to work:** https://timmybytes.com
