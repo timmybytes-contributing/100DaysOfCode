@@ -113,3 +113,10 @@ things the right way (or at least, not the complete wrong way).
 **Today's Progress:** Little time to work today. Mostly tweaked a few settings to simplify/tone-down some of the design of the site. I need to start working on other projects too or I'm going to get totally consumed with this thing.
 
 **Link(s) to work:** https://timmybytes.com
+
+
+### Day 13: Thursday July 9th, 2020
+
+**Today's Progress:** Went through a tutorial on SASS via [codeSTACKr](https://www.youtube.com/watch?v=_a5j7KoflTs) to build a mock developer portfolio site. Spent some time tinkering with Python again, looking to make a web scraper of some kind on the side of learning the front end.
+
+**Link(s) to work:** [DevPortfolioSite](https://github.com/timmybytes/WebDevPractice/tree/master/DevProfileSite)
