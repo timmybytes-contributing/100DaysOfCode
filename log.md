@@ -120,3 +120,10 @@ things the right way (or at least, not the complete wrong way).
 **Today's Progress:** Went through a tutorial on SASS via [codeSTACKr](https://www.youtube.com/watch?v=_a5j7KoflTs) to build a mock developer portfolio site. Spent some time tinkering with Python again, looking to make a web scraper of some kind on the side of learning the front end.
 
 **Link(s) to work:** [DevPortfolioSite](https://github.com/timmybytes/WebDevPractice/tree/master/DevProfileSite)
+
+
+### Day 14: Friday July 10th, 2020
+
+**Today's Progress:** Started learning JavaScript more in-depth today, far more similarities with Python than I originally thought. Still dabbling with a Python script to use in an old project I never finished (the one that got me into coding in the first place). 
+
+**Link(s) to work:** N/A
