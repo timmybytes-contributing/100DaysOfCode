@@ -2,9 +2,9 @@
 
 ### Day 0: Friday June 26th, 2020
 
-**Today's Progress:** Setting up environments and planning projests. Forked '100DaysOfCode' repo. 
+**Today's Progress:** Setting up environments and planning projests. Forked '100DaysOfCode' repo.
 
-**Thoughts:** 
+**Thoughts:**
 
 **Link(s) to work:**
 Nothing yet!
@@ -20,7 +20,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** [timmybytes.com](timmybytes.com) (SSL pending via GitHub).
 
 
-### Day 2: Sunday June 28th, 2020 
+### Day 2: Sunday June 28th, 2020
 
 **Today's Progress:** Made more progress with layout and how elements interact together on the page. Practiced more Codecademy exercises.
 
@@ -29,7 +29,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** No new commits today; WIP.
 
 
-### Day 3: Monday June 29th, 2020 
+### Day 3: Monday June 29th, 2020
 
 **Today's Progress:** More Codecademy practice, discovered [Jen Simmons'](https://labs.jensimmons.com/) hugely inspirational design work and explanations on css grid.
 
@@ -38,7 +38,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** No new commits today; WIP.
 
 
-### Day 4: Tuesday June 30th, 2020 
+### Day 4: Tuesday June 30th, 2020
 
 **Today's Progress:** Completed (most) of a recreation of Google.com from pure HTML/CSS with working search redirection.
 
@@ -47,7 +47,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** [Google Homepage Copy](https://github.com/timmybytes/WebDevPractice/tree/master/Google_Homepage_Copy)
 
 
-### Day 5: Wednesday July 1st, 2020 
+### Day 5: Wednesday July 1st, 2020
 
 **Today's Progress:** Learned the basics of SASS and how it can be used to both streamline and add greater complexity to web design.
 
@@ -56,7 +56,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** No projects today.
 
 
-### Day 6: Thursday July 2nd, 2020 
+### Day 6: Thursday July 2nd, 2020
 
 **Today's Progress:** Less time to code today. Spent some time experimenting with SASS and creating mixins and variables to better separate my code without repeating. Played with Figma to try out styling/layout options.
 
@@ -65,7 +65,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** No projects today.
 
 
-### Day 7: Friday July 3rd, 2020 
+### Day 7: Friday July 3rd, 2020
 
 **Today's Progress:** Exercises on Codecademy, lots of reading and compiling of a roadmap doc to help guide my learning. About to spend some time hacking at my site before I turn in.
 
@@ -74,7 +74,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** No projects today.
 
 
-### Day 8: Saturday July 4th, 2020 
+### Day 8: Saturday July 4th, 2020
 
 **Today's Progress:** Ill today, not much work done. Studied up on color-blind-friendly palettes and type scale ratios. Got my nav bar working for a site not done yet!
 
@@ -83,7 +83,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** No projects today.
 
 
-### Day 9: Sunday July 5th, 2020 
+### Day 9: Sunday July 5th, 2020
 
 **Today's Progress:** Built a new basic site with flexbox to get a better handle on how it interact with layout elements. Finding a decent design balance. Read up on contributing to open source projects, but still a bit overwhelmed on what to look for and how to help.
 
@@ -92,7 +92,7 @@ things the right way (or at least, not the complete wrong way).
 **Link(s) to work:** [Not yet live, but code is here](https://github.com/timmybytes/WebDevPractice/tree/master/flexbox_test)
 
 
-### Day 10: Monday July 6th, 2020 
+### Day 10: Monday July 6th, 2020
 
 **Today's Progress:** Worked more on flex-based site, toying with SASS and responsiveness now... lost in the cascade. Found some great new sites and podcasts to check out. CSSInRealLife and A Question of Code
 
@@ -124,6 +124,20 @@ things the right way (or at least, not the complete wrong way).
 
 ### Day 14: Friday July 10th, 2020
 
-**Today's Progress:** Started learning JavaScript more in-depth today, far more similarities with Python than I originally thought. Still dabbling with a Python script to use in an old project I never finished (the one that got me into coding in the first place). 
+**Today's Progress:** Started learning JavaScript more in-depth today, far more similarities with Python than I originally thought. Still dabbling with a Python script to use in an old project I never finished (the one that got me into coding in the first place).
 
 **Link(s) to work:** N/A
+
+
+### Day 15: Saturday July 11th, 2020
+
+**Today's Progress:** Started building a site with css grid today, and playing with color schemes.
+
+**Link(s) to work:** N/A
+
+
+### Day 16: Sunday July 12th, 2020
+
+**Today's Progress:** Working on basic grid layout and heirarchy.
+
+**Link(s) to work:** [Landing-Page](https://github.com/timmybytes/WebDevPractice/tree/master/Landing-Page:)
