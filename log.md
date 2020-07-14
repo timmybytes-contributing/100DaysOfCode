@@ -140,4 +140,11 @@ things the right way (or at least, not the complete wrong way).
 
 **Today's Progress:** Working on basic grid layout and heirarchy.
 
-**Link(s) to work:** [Landing-Page](https://github.com/timmybytes/WebDevPractice/tree/master/Landing-Page:)
+**Link(s) to work:** [Landing-Page](https://github.com/timmybytes/WebDevPractice/tree/master/Landing-Page)
+
+
+### Day 17: Monday July 13th, 2020
+
+**Today's Progress:** Not as much progress today, since it was the first day of vacation. Still added some things to the basic landing page. 
+
+**Link(s) to work:** [Landing-Page](https://github.com/timmybytes/WebDevPractice/tree/master/Landing-Page)
