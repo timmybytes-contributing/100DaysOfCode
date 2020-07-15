@@ -145,6 +145,13 @@ things the right way (or at least, not the complete wrong way).
 
 ### Day 17: Monday July 13th, 2020
 
-**Today's Progress:** Not as much progress today, since it was the first day of vacation. Still added some things to the basic landing page. 
+**Today's Progress:** Not as much progress today, since it was the first day of vacation. Still added some things to the basic landing page.
 
 **Link(s) to work:** [Landing-Page](https://github.com/timmybytes/WebDevPractice/tree/master/Landing-Page)
+
+
+### Day 18: Tuesday July 14th, 2020
+
+**Today's Progress:** Reading [Refactoring UI](https://refactoringui.com/), which has been hugely helpful. I get so hung up on the design parts of development, and these guys offer a great set of boundaries to work within. Did some more JavaScript practice problems on Codecademy.
+
+**Link(s) to work:** No links; working on creating a repeatable system for continued use in projects.
