@@ -2,7 +2,7 @@
 
 ### Day 0: Friday June 26th, 2020
 
-**Today's Progress:** Setting up environments and planning projests. Forked '100DaysOfCode' repo.
+**Today's Progress:** Setting up environments and planning projects. Forked '100DaysOfCode' repo.
 
 **Thoughts:**
 
@@ -138,7 +138,7 @@ things the right way (or at least, not the complete wrong way).
 
 ### Day 16: Sunday July 12th, 2020
 
-**Today's Progress:** Working on basic grid layout and heirarchy.
+**Today's Progress:** Working on basic grid layout and hierarchy.
 
 **Link(s) to work:** [Landing-Page](https://github.com/timmybytes/WebDevPractice/tree/master/Landing-Page)
 
@@ -153,5 +153,19 @@ things the right way (or at least, not the complete wrong way).
 ### Day 18: Tuesday July 14th, 2020
 
 **Today's Progress:** Reading [Refactoring UI](https://refactoringui.com/), which has been hugely helpful. I get so hung up on the design parts of development, and these guys offer a great set of boundaries to work within. Did some more JavaScript practice problems on Codecademy.
+
+**Link(s) to work:** No links; working on creating a repeatable system for continued use in projects.
+
+
+### Day 19: Wednesday July 15th, 2020
+
+**Today's Progress:** Reading [Refactoring UI](https://refactoringui.com/), SASS mixins created to adhere to a design system for a webdev template.
+
+**Link(s) to work:** No links; working on creating a repeatable system for continued use in projects.
+
+
+### Day 20: Thursday July 16th, 2020
+
+**Today's Progress:** Reading [Refactoring UI](https://refactoringui.com/), JS practice and learning exercises, DOM.
 
 **Link(s) to work:** No links; working on creating a repeatable system for continued use in projects.
