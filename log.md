@@ -169,3 +169,17 @@ things the right way (or at least, not the complete wrong way).
 **Today's Progress:** Reading [Refactoring UI](https://refactoringui.com/), JS practice and learning exercises, DOM.
 
 **Link(s) to work:** No links; working on creating a repeatable system for continued use in projects.
+
+
+### Day 21: Friday July 17th, 2020
+
+**Today's Progress:** Light day. More tinkering with SASS and HTML, and creating mockups in Figma before building a new layout (this helped a ton). Going to dip my toe in JS to try and get some interactive navigation working.
+
+**Link(s) to work:** [timmybytes.com](https://timmybytes.com)
+
+
+### Day 22: Saturday July 18th, 2020
+
+**Today's Progress:** Completely rebuilt my website, and I'm finally starting to be happy with the cohesion of layout and design. Now to add a blog...
+
+**Link(s) to work:** [timmybytes.com](https://timmybytes.com)
