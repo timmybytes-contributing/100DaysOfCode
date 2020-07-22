@@ -218,3 +218,11 @@ cohesion of layout and design. Now to add a blog...
 yet.
 
 **Link(s) to work:** N/A
+
+### Day 25: Tuesday July 21st, 2020
+
+**Today's Progress:** Three hours of following along with JS tutorials and
+two hours coding on my own. Feel like I'm starting to make a little dent,
+and I have enough of a grasp of the DOM to plan out a project to attempt.
+
+**Link(s) to work:** N/A
