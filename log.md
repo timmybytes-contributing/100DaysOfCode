@@ -226,3 +226,9 @@ two hours coding on my own. Feel like I'm starting to make a little dent,
 and I have enough of a grasp of the DOM to plan out a project to attempt.
 
 **Link(s) to work:** N/A
+
+
+### Day 26: Wednesday July 22nd, 2020
+
+**Today's Progress:** Two and half hours of JavaScript tutorials and
+practice. No links today.
