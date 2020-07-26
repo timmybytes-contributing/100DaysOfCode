@@ -232,3 +232,18 @@ and I have enough of a grasp of the DOM to plan out a project to attempt.
 
 **Today's Progress:** Two and half hours of JavaScript tutorials and
 practice. No links today.
+
+
+### Day 27: Thursday July 23rd, 2020
+
+**Today's Progress:** Well today was a wash. Running ragged all day taking care of the kiddo with no time to really sink into coding. I’m going to forgive myself and get up early to hit the digital bricks.
+
+
+### Day 28: Friday July 24th, 2020
+
+**Today's Progress:** More JavaScript practice, more seemingly endless methods to try and get my head around. Lots of array manipulation practice. I’m tired. 
+
+
+### Day 29: Saturday July 25th, 2020
+
+**Today's Progress:** Lots and lots of JavaScript practice today. Still trying to work out the best implementation for a (maintainable) blog on my gh-pages static site, aside from a do-over migration to Jekyll or Gatsby.
