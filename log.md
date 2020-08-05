@@ -241,9 +241,49 @@ practice. No links today.
 
 ### Day 28: Friday July 24th, 2020
 
-**Today's Progress:** More JavaScript practice, more seemingly endless methods to try and get my head around. Lots of array manipulation practice. I’m tired. 
+**Today's Progress:** More JavaScript practice, more seemingly endless methods to try and get my head around. Lots of array manipulation practice. I’m tired.
 
 
 ### Day 29: Saturday July 25th, 2020
 
 **Today's Progress:** Lots and lots of JavaScript practice today. Still trying to work out the best implementation for a (maintainable) blog on my gh-pages static site, aside from a do-over migration to Jekyll or Gatsby.
+
+### Day 30: Sunday July 26th, 2020
+**Today's Progress:** Experiments with jQuery today, and more fooling around with CSS Grid and BEM-styled Sass.
+
+### Day 31: Monday July 27th, 2020
+**Today's Progress:** set up a Jekyll blog today, immediately went into the guts of the theme files and started to tweak everything to my liking... before somehow completely breaking the stylesheet
+Face with tears of joy
+ Tomorrow I find out what went wrong.
+
+### Day 32: Tuesday July 28th, 2020
+**Today's Progress:** Think I’m starting to get the hang of JavaScript interacting with the DOM. Working on a simple reader-type application for more focused reading on text-heavy sites, without replacing native styling entirely.
+
+### Day 33: Wednesday July 29th, 2020
+**Today's Progress:** Still chipping away at JavaScript and the DOM, and the seemingly infinite ways to affect a page with JS. Going to try making use of some OOP techniques in the next thing I build.
+
+### Day 34: Thursday July 30th, 2020
+**Today's Progress:** Spent about an hour trying to figure out a relatively simple JS problem today. Did some other practice problems, but mostly my kiddo and I were just trying not to melt in this summer heat.
+
+### Day 35: Friday July 31st, 2020
+**Today's Progress:** Started working on the JavaScript @exercism_io
+ track today, and it’s a great hands-on way to practice coding challenges. I also recommend @Codecademy
+ for exercises and review while you’re on the go.
+
+### Day 36: Saturday August 1st, 2020
+**Today's Progress:** More @exercism_io
+ & @freeCodeCamp
+ challenges today, and played a bit of @TwilioQuest
+, which is both fun and helpful for code practice. Trying to play around with an API to build something...
+
+### Day 37: Sunday August 2nd, 2020
+**Today's Progress:** More @exercism_io
+ & @freeCodeCamp
+ challenges today, and played a bit of @TwilioQuest
+, which is both fun and helpful for code practice. Trying to play around with an API to build something...
+
+### Day 38: Monday August 3rd, 2020
+**Today's Progress:** A slow one for being productive with code. I felt 2020 full force in all its insanity today
+
+### Day 39: Tuesday August 3rd, 2020
+**Today's Progress:**
