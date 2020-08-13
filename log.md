@@ -117,7 +117,7 @@ in with the day's progress from now on.
 **Today's Progress:** Finished most of the layout for the site and it's now live. Still have some
 tweaking to do, and then all of the non-coding editing to do to get content ready for publishing.
 
-**Link(s) to work:** https://timmybytes.com
+**Link(s) to work:** <https://timmybytes.com>
 
 ### Day 12: Wednesday July 8th, 2020
 
@@ -125,7 +125,7 @@ tweaking to do, and then all of the non-coding editing to do to get content read
 some of the design of the site. I need to start working on other projects too or I'm going to get
 totally consumed with this thing.
 
-**Link(s) to work:** https://timmybytes.com
+**Link(s) to work:** <https://timmybytes.com>
 
 ### Day 13: Thursday July 9th, 2020
 
@@ -227,63 +227,101 @@ and I have enough of a grasp of the DOM to plan out a project to attempt.
 
 **Link(s) to work:** N/A
 
-
 ### Day 26: Wednesday July 22nd, 2020
 
 **Today's Progress:** Two and half hours of JavaScript tutorials and
 practice. No links today.
 
-
 ### Day 27: Thursday July 23rd, 2020
 
 **Today's Progress:** Well today was a wash. Running ragged all day taking care of the kiddo with no time to really sink into coding. I’m going to forgive myself and get up early to hit the digital bricks.
 
-
 ### Day 28: Friday July 24th, 2020
 
 **Today's Progress:** More JavaScript practice, more seemingly endless methods to try and get my head around. Lots of array manipulation practice. I’m tired.
-
 
 ### Day 29: Saturday July 25th, 2020
 
 **Today's Progress:** Lots and lots of JavaScript practice today. Still trying to work out the best implementation for a (maintainable) blog on my gh-pages static site, aside from a do-over migration to Jekyll or Gatsby.
 
 ### Day 30: Sunday July 26th, 2020
+
 **Today's Progress:** Experiments with jQuery today, and more fooling around with CSS Grid and BEM-styled Sass.
 
 ### Day 31: Monday July 27th, 2020
+
 **Today's Progress:** set up a Jekyll blog today, immediately went into the guts of the theme files and started to tweak everything to my liking... before somehow completely breaking the stylesheet
 Face with tears of joy
- Tomorrow I find out what went wrong.
+Tomorrow I find out what went wrong.
 
 ### Day 32: Tuesday July 28th, 2020
+
 **Today's Progress:** Think I’m starting to get the hang of JavaScript interacting with the DOM. Working on a simple reader-type application for more focused reading on text-heavy sites, without replacing native styling entirely.
 
 ### Day 33: Wednesday July 29th, 2020
+
 **Today's Progress:** Still chipping away at JavaScript and the DOM, and the seemingly infinite ways to affect a page with JS. Going to try making use of some OOP techniques in the next thing I build.
 
 ### Day 34: Thursday July 30th, 2020
+
 **Today's Progress:** Spent about an hour trying to figure out a relatively simple JS problem today. Did some other practice problems, but mostly my kiddo and I were just trying not to melt in this summer heat.
 
 ### Day 35: Friday July 31st, 2020
+
 **Today's Progress:** Started working on the JavaScript @exercism_io
- track today, and it’s a great hands-on way to practice coding challenges. I also recommend @Codecademy
- for exercises and review while you’re on the go.
+track today, and it’s a great hands-on way to practice coding challenges. I also recommend @Codecademy
+for exercises and review while you’re on the go.
 
 ### Day 36: Saturday August 1st, 2020
+
 **Today's Progress:** More @exercism_io
- & @freeCodeCamp
- challenges today, and played a bit of @TwilioQuest
+& @freeCodeCamp
+challenges today, and played a bit of @TwilioQuest
 , which is both fun and helpful for code practice. Trying to play around with an API to build something...
 
 ### Day 37: Sunday August 2nd, 2020
+
 **Today's Progress:** More @exercism_io
- & @freeCodeCamp
- challenges today, and played a bit of @TwilioQuest
+& @freeCodeCamp
+challenges today, and played a bit of @TwilioQuest
 , which is both fun and helpful for code practice. Trying to play around with an API to build something...
 
 ### Day 38: Monday August 3rd, 2020
+
 **Today's Progress:** A slow one for being productive with code. I felt 2020 full force in all its insanity today
 
-### Day 39: Tuesday August 3rd, 2020
+### Day 39: Tuesday August 4th, 2020
+
+**Today's Progress:** Learned some Node.js, npm, and a little of how React works today. Fascinating stuff. I can’t wait to keep exploring.
+
+### Day 40: Wednesday August 5th, 2020
+
+**Today's Progress:** Learned more about Express and some of the back end, some git tips and tricks, and working on (finally) setting up my dotfiles coherently.
+
+### Day 41: Thursday August 6th, 2020
+
+**Today's Progress:** Got a basic Jekyll site working, though it’s still just local to my machine. Toyed with SCSS and MD a bit, but no heavy lifting today.
+
+### Day 42: Friday August 7th, 2020
+
+**Today's Progress:** Took a break today to just focus on hanging out with my kiddo and recharge. Sometimes it’s good to focus on the simple things.
+
+### Day 43: Saturday August 8th, 2020
+
+**Today's Progress:** Started working with React today... and now I totally understand the hype. It’s awesome. Unfortunately a lot of work time was derailed by a monster migraine, but I’m limping along.
+
+### Day 44: Sunday August 9th, 2020
+
+**Today's Progress:** Spent three hours getting the hang of the basics of React, and it’s such a fun way to build. Starting a proper project tomorrow. The rest of the day was spent playing guitar, singing, and recording new material with bandmates. A+ Sunday.
+
+### Day 45: Monday August 10th, 2020
+
+**Today's Progress:** More React tutorials and practice today. I love being able to integrate HTML/CSS/JS/JSON all in one place, and I’m already trying to find nerdy ways to put my knowledge into practice.
+
+### Day 46: Tuesday August 11th, 2020
+
+**Today's Progress:** Practiced React conditional rendering, ternary operators, and arrow functions today. More baby steps on my first React app.
+
+### Day 47: Wednesday August 12th, 2020
+
 **Today's Progress:**
