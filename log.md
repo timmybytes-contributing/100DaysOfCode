@@ -324,4 +324,52 @@ challenges today, and played a bit of @TwilioQuest
 
 ### Day 47: Wednesday August 12th, 2020
 
-**Today's Progress:**
+**Today's Progress:** Tons more React practice today, including introductions to State, Hooks, and Destructuring arrays/objects (trippy, but awesome). I still feel dumb, but utterly fascinated.
+
+### Day 48: Thursday August 13th, 2020
+
+**Today's Progress:** Got a little more React practice in today, but most of the day was juggling a hyper, inquisitive kiddo. Sleep, then coding first thing.
+
+### Day 49/50: Saturday August 15th, 2020
+
+**Today's Progress:** Still trying to get comfortable with React Hooks and using state. Coding is getting more abstract, but also more interesting (when I can get it to work).
+
+### Day 51/52: Monday August 17th, 2020
+
+**Today's Progress:**Built and deployed my very first React app, via Tania Rascia’s tutorial. I tweaked the styles to match my branding, and might try converting classes to functional components later, but for now it works!
+
+**Link to Work:** [Job List App](https://timmybytes.github.io/react-job-list-app/)
+
+### Day 53: Tuesday August 18th, 2020
+
+**Today's Progress:** Spent today working on recreating a previous website I built in vanilla HTML/CSS with newfound React skills. It’s slow going, but there’s already a lot to be gained in terms of functionality.
+
+### Day 54: Wednesday August 19th, 2020
+
+**Today's Progress:** More React today, working with conditional rendering and state. Still going to take another hundred times or so, but I’m getting it.
+
+### Day 55: Thursday August 20th, 2020
+
+**Today's Progress:** Spent some time getting back to basics with HTML/CSS(with SASS) today, and need to practice more with vanilla JS. Does anyone else find themselves getting stuck tinkering endlessly with layout/styling, or is that just me?
+
+### Day 56/57: Saturday August 22nd, 2020
+
+**Today's Progress:** Still revisiting the basics of web development to practice layout specificity and interaction with the DOM.
+
+### Day 58/59: Monday August 24th, 2020
+
+**Today's Progress:** Started a new React project from scratch, no tutorials or guides, and while there’s a definite learning curve (and so much Googling), it feels like I’m starting to get this.
+
+### Day 60: Tuesday August 25th, 2020
+
+**Today's Progress:** Spent most of the day working on my simple little React app, fighting with flexbox, state, and image ratios. It’s nearly done, I’ve learned a lot, and I’m so tired.
+
+### Day 61: Wednesday August 26th, 2020
+
+**Today's Progess:** Finished building my little web app, just need to deploy to gh-pages and link to it in my portfolio. But I’m dozing off at the sight of npm, so maybe in the morning?
+
+### Day 62: Thursday August 27th, 2020
+
+**Today's Progress:** Deployed my goofy Batman React app. More to do to polish it and add features, but this is my first one built all on my own.
+
+**Link to Work:** [Bat-Slider App](https://timmybytes.github.io/react-bat-slider-app/)
